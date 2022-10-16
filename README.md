@@ -1,4 +1,4 @@
-# Celebrity-GAME
+# Celebrity-GAME : 인물퀴즈게임
 ## 2학년 1학기 오픈소스기초프로젝트 Celebrity-GAME 개인 기능
 ### 외부 데이터 수집 및 관리
 - 웹 파싱과 웹 크롤링 기술 활용
